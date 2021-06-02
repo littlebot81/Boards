@@ -3,9 +3,6 @@
         {
             "name": "Monkee Ears",
             "email": "info@monkeeears.com",
-            "help": {
-                "online": "https://forums.adafruit.com"
-            },
             "maintainer": "Monkee Ears",
             "platforms": [
                 {
