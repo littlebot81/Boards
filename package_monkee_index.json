@@ -10,7 +10,7 @@
                     "architecture": "nrf52",
                     "version": "1.0.0",
                     "category": "Adafruit",
-                    "url": "https://github.com/littlebot81/Boards/blob/main/monkee_1.0.0.zip",
+                    "url": "https://github.com/littlebot81/Boards/blob/main/monkee_1.0.0.zip?raw=true",
                     "archiveFileName": "monkee_1.0.0.zip",
                     "checksum": "SHA-256:56299A94B12C0717EFF64AD56E7B761A7D7D2F27B1888719D0DF642FB1857CFA",
                     "size": "21230947",
