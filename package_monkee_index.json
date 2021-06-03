@@ -1,0 +1,37 @@
+{
+  "packages": [
+    {
+      "websiteURL": "https://adafruit.com",
+      "name": "Monkee Ears",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "maintainer": "Monkee Ears",
+      "platforms": [
+        {
+          "name": "Monkee Ears nRF52840",
+          "architecture": "nrf52",
+          "version": "1.0.0",
+          "category": "Monkee Ears",
+          "url": "https://github.com/littlebot81/Boards/blob/main/monkee_1.0.0.zip",
+          "archiveFileName": "monkee_1.0.0.zip",
+          "checksum": "SHA-256:56299A94B12C0717EFF64AD56E7B761A7D7D2F27B1888719D0DF642FB1857CFA",
+          "size": "21230947",
+          "help": {
+            "online": "https://forums.adafruit.com"
+          },
+          "boards": [
+            {
+              "name": "Monkee Ears nRF52840"
+            }
+          ],
+          "toolsDependencies": [
+          ],
+          "tools": [
+          ]
+        }
+      ]
+    }
+  ]
+}
